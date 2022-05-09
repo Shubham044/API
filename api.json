@@ -5,7 +5,7 @@
   "roll.no" : "1901412322",
   "mobile" : "1234567890",
   "img" : "https://raw.githubusercontent.com/Shubham044/projectAPI/img/img.jpeg",
-  "marks" : "",
+  "marks" : ""
   },
   {
   "id" : 2,
@@ -13,7 +13,7 @@
   "roll.no" : "1901412322",
   "mobile" : "1234567890",
   "img" : "https://raw.githubusercontent.com/Shubham044/projectAPI/img/img.jpeg",
-  "marks" : "",
+  "marks" : ""
   },
   {
   "id" : 3,
@@ -21,7 +21,7 @@
   "roll.no" : "1901412322",
   "mobile" : "1234567890",
   "img" : "https://raw.githubusercontent.com/Shubham044/projectAPI/img/img.jpeg",
-  "marks" : "",
+  "marks" : ""
   },
   {
   "id" : 4,
@@ -29,7 +29,7 @@
   "roll.no" : "1901412322",
   "mobile" : "1234567890",
   "img" : "https://raw.githubusercontent.com/Shubham044/projectAPI/img/img.jpeg",
-  "marks" : "",
+  "marks" : ""
   },
   {
   "id" : 5,
@@ -37,6 +37,6 @@
   "roll.no" : "1901412322",
   "mobile" : "1234567890",
   "img" : "https://raw.githubusercontent.com/Shubham044/projectAPI/img/img.jpeg",
-  "marks" : "",
+  "marks" : ""
   }
 ]
